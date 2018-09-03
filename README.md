@@ -1,4 +1,4 @@
-# github-viz
+# github-viz-master-detail
 
 Master - detail approach (this project is cloned from Open UI5 boilerplate)
 
